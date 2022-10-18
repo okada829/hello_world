@@ -3,3 +3,5 @@
 -apple
 -banana
 -peach
+-pineapple
+ New line added by a local environment.
